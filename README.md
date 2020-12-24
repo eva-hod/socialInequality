@@ -4,3 +4,4 @@
 
 Модель, правило обмена и остальные исходные данные брала из задачи 4а отсюда https://arxiv.org/ftp/arxiv/papers/1412/1412.2720.pdf
 
+Проект на google collab: https://colab.research.google.com/drive/18BgzQ4aL8c6s681DN8xXqtiWftoqbn_T?usp=sharing
